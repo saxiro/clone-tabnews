@@ -1,6 +1,6 @@
 function Home(){
 
-    return <h1>Dandara eu te amo. Quero um beijo!</h1>
+    return <h1>Má lénda. Te amo. Quero um beijo!!!</h1>
 }
 
 export default Home;
