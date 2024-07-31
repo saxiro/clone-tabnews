@@ -1,6 +1,11 @@
 function Home(){
 
-    return <h1>Má lénda. Te amo. Quero um beijo!!!</h1>
+    return (
+        <div>
+            <h1>O presente é o único tempo sobre o qual temos domínio.</h1>
+            <p>— Thich Nhat Hanh</p>
+        </div>
+    );
 }
 
 export default Home;
